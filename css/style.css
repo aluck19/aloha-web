@@ -1,0 +1,47 @@
+html,body{
+	margin:0;
+	padding:0;
+	font:14px arial normal;
+	background:#fafafa;
+}
+header {
+    background-color: greenyellow;
+    height: 150px;
+}
+h1 {
+    margin: 0;
+}
+div#headerWrapper {
+    width: 960px;
+    margin: 0 auto;
+    background-color: red;
+}
+ul#titleWrapper{
+	width: 960px;
+    margin: 0 auto;
+    background-color: pink;
+	height: 30px;
+}
+{
+  margin: 0;
+}
+ul li
+{
+		display:inline;
+}
+
+/* Footer
+----------------------------------------------------*/
+footer {
+    background-color: orange;
+}
+div#footerWrapper {
+    width: 960px;
+    margin: 0 auto;
+	
+}
+#snap {
+    padding: 1px;
+    
+}
+	
